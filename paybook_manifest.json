@@ -8,6 +8,7 @@
         "title": "Open AI agent",
         "description": "A chat agent for OpenAI",
         "author": "Team Ajayji",
+        "icon_name": "open-ai-logo",
         "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/featured_agents/OpenAIDefault_f2dba1c3-d9f8-4ade-8eb2-f1f2dab6b39a.json"
       },
       {
@@ -15,13 +16,15 @@
         "title": "Gemini agent",
         "description": "A chat agent for Gemini",
         "author": "Team Ajayji",
-        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/featured_agents/Gemini_Chat_77faec4a-7e9e-4502-b60a-a67f40f52fda.json"
+        "icon_name": "sparkle",
+        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/featured_agents/Gemini_Chat_77faec4a-7e9e-4502-b60a-a67f4d52fda.json"
       },
       {
         "id": "n8n-agent-001",
         "title": "n8n agent",
         "description": "A chat agent for an n8n webhook",
         "author": "Team Ajayji",
+        "icon_name": "plugs-connected",
         "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/featured_agents/n8n_chat_agent_ed009142-3ac3-49d6-9e4a-03f3df68bf79.json"
       }
     ]
@@ -35,6 +38,7 @@
         "title": "Dashboard to a skill",
         "description": "A Demo Dashboard playbook",
         "author": "Team Ajayji",
+        "icon_name": "chart-line-up",
         "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/dashboard/test_dashboard_trace_ad8169cf-ca4d-41fe-a79e-c1d515854b54.json"
       }
     ]

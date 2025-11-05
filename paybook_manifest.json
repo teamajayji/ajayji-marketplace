@@ -40,6 +40,14 @@
         "author": "Team Ajayji",
         "icon_name": "chart-line-up",
         "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/dashboard/test_dashboard_trace_ad8169cf-ca4d-41fe-a79e-c1d515854b54.json"
+      },
+      {
+        "id": "dashboard-demo-002",
+        "title": "Dashboard trigger for a flashlight",
+        "description": "Sending a morse code message with mobile flashlight",
+        "author": "Team Ajayji",
+        "icon_name": "flashlight",
+        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/dashboard/test_dashboard_trace_ad8169cf-ca4d-41fe-a79e-c1d515854b54.json"
       }
     ]
   }

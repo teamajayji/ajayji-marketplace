@@ -48,6 +48,14 @@
         "author": "Team Ajayji",
         "icon_name": "flashlight",
         "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/dashboard/Playbook_%20test%20flashlight%20with%20gemini.json"
+      },
+            {
+        "id": "exported-88da6d7b-9076-45b8-b9ff-61e7ed9df0eb",
+        "title": "Camera Node Demo",
+        "description": "Blurprint demonstrating use of Camera node with Dashboard trigger",
+        "author": "Team Ajayji",
+        "icon_name": "camera",
+        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/dashboard/Playbook_%20test%20flashlight%20with%20gemini.json"
       }
     ]
   }

@@ -17,7 +17,7 @@
         "description": "A chat agent for Gemini",
         "author": "Team Ajayji",
         "icon_name": "sparkle",
-        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/featured_agents/Gemini_Chat_77faec4a-7e9e-4502-b60a-a67f4d52fda.json"
+        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/featured_agents/Gemini_Chat_77faec4a-7e9e-4502-b60a-a67f40f52fda.json"
       },
       {
         "id": "n8n-agent-001",
@@ -55,7 +55,7 @@
         "description": "Blurprint demonstrating use of Camera node with Dashboard trigger",
         "author": "Team Ajayji",
         "icon_name": "camera",
-        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/dashboard/Playbook_%20test%20flashlight%20with%20gemini.json"
+        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/dashboard/Camera_Node_Demo_88da6d7b-9076-45b8-b9ff-61e7ed9df0eb.json"
       }
     ]
   }

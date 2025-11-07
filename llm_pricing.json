@@ -1,0 +1,38 @@
+[
+  {
+    "providerId": "google",
+    "providerName": "Google",
+    "models": [
+      {
+        "modelId": "gemini-2.5-pro",
+        "modelName": "Gemini 2.5 Pro",
+        "inputPricePerMillionTokens": 2.50,
+        "outputPricePerMillionTokens": 15.00
+      },
+      {
+        "modelId": "gemini-2.5-flash",
+        "modelName": "Gemini 2.5 Flash",
+        "inputPricePerMillionTokens": 0.30,
+        "outputPricePerMillionTokens": 2.50
+      }
+    ]
+  },
+  {
+    "providerId": "openai",
+    "providerName": "OpenAI",
+    "models": [
+      {
+        "modelId": "gpt-4o",
+        "modelName": "GPT-4o",
+        "inputPricePerMillionTokens": 2.50,
+        "outputPricePerMillionTokens": 10.00
+      },
+      {
+        "modelId": "gpt-4.1",
+        "modelName": "GPT-4.1",
+        "inputPricePerMillionTokens": 2.00,
+        "outputPricePerMillionTokens": 8.00
+      }
+    ]
+  }
+]

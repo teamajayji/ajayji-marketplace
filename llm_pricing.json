@@ -19,7 +19,15 @@
         "modelId": "gemini-embedding-001",
         "modelName": "Gemini Embedding 001",
         "inputPricePerMillionTokens": 0,
-        "outputPricePerMillionTokens": 0
+        "outputPricePerMillionTokens": 0,
+        "outputVectorDimension": 3072
+      },
+      {
+        "modelId": "gemini-embedding-004",
+        "modelName": "Gemini Embedding 004",
+        "inputPricePerMillionTokens": 0,
+        "outputPricePerMillionTokens": 0,
+        "outputVectorDimension": 768
       }
     ]
   },

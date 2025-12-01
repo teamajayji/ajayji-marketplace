@@ -14,6 +14,12 @@
         "modelName": "Gemini 2.5 Flash",
         "inputPricePerMillionTokens": 0.30,
         "outputPricePerMillionTokens": 2.50
+      },
+      {
+        "modelId": "gemini-embedding-001",
+        "modelName": "Gemini Embedding 001",
+        "inputPricePerMillionTokens": 0,
+        "outputPricePerMillionTokens": 0
       }
     ]
   },

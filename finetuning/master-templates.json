@@ -1,0 +1,10 @@
+{
+  "templates": [
+    {
+      "id": "function-gemma",
+      "name": "FunctionGemma",
+      "description": "Templates for fine-tuning the FunctionGemma model with tool-calling capabilities.",
+      "url": "https://raw.githubusercontent.com/example/repo/main/function_gemma.json"
+    }
+  ]
+}

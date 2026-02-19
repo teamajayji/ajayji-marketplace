@@ -1,0 +1,36 @@
+<View>
+  <Header value="Conversation Turn Details"/>
+  <View style="font-size: 16px; margin-bottom: 1em; display: grid; grid-template-columns: 100px auto; gap: 5px 10px;">
+    <Text name="label_conv_id" value="Conversation ID:" style="font-weight: bold;"/>
+    <Text name="conversation_id" value="\$conversation_id"/>
+
+    <Text name="label_turn_id" value="Turn ID:" style="font-weight: bold;"/>
+    <Text name="turn_id" value="\$turn_id"/>
+
+    <Text name="label_role" value="Role:" style="font-weight: bold;"/>
+    <Text name="role" value="\$role"/>
+  </View>
+
+  <Header value="Content"/>
+  <View style="background: #f1f1f1; padding: 15px; border-radius: 4px; margin-bottom: 1em;">
+    <Text name="content_display" value="\$content"/>
+  </View>
+  
+  <Header value="Tool Call"/>
+  <View style="font-size: 16px; margin-bottom: 1em; display: grid; grid-template-columns: 100px auto; gap: 5px 10px;">
+    <Text name="label_tool_name" value="Tool Name:" style="font-weight: bold;"/>
+    <Text name="tool_name" value="\$tool_name"/>
+
+    <Text name="label_tool_arguments" value="Arguments:" style="font-weight: bold;"/>
+    <Text name="tool_arguments" value="\$tool_arguments"/>
+  </View>
+  
+  <Header value="Annotate Here"/>
+  <TextArea name="annotated_response" toName="content_display"
+            placeholder="Based on the content above, construct the full response including the &lt;think&gt;...&lt;/think&gt; and &lt;tool_code&gt;...&lt;/tool_code&gt; sections."
+            rows="8"
+            required="true"
+            showSubmitButton="true"
+            maxSubmissions="1"
+  />
+</View>

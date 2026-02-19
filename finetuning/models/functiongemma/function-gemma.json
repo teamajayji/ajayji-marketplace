@@ -5,7 +5,7 @@
     {
       "name": "Default Tool Calling Template",
       "description": "A standard template for defining tool calls and expected outputs.",
-      "url": "https://raw.githubusercontent.com/example/repo/main/templates/function_gemma/tool_calling_v1.csv"
+      "url": "tool_calling_v1.csv"
     }
   ],
   "label_studio_configs": [
@@ -13,7 +13,7 @@
       "id": 1,
       "name": "Standard Tool Annotation",
       "description": "A Label Studio config for annotating tool usage from text.",
-      "xml_config_path": "assets/templates/function-gemma-ls-config.xml"
+      "xml_config_path": "function-gemma-ls-config.xml"
     }
   ]
 }

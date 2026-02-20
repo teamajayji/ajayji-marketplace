@@ -1,0 +1,5 @@
+conversation_id,turn_id,role,content,tool_name,tool_arguments
+conv_001,1,user,"What is the weather in Toronto?",,
+conv_001,2,assistant,,get_weather,"{""city"": ""Toronto""}"
+conv_002,1,user,"Send a message to John saying 'hello'",,
+conv_002,2,assistant,,send_message,"{""recipient"": ""John"", ""message"": ""hello""}"

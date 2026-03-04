@@ -1,0 +1,11 @@
+{
+  "id": "prompt-function-gemma-v1",
+  "name": "Default Tool-Use Prompt for FunctionGemma",
+  "structure": {
+    "system_prompt_template": "<start_of_turn>developer\n{{tool_definitions}}\n<end_of_turn>\n",
+    "user_turn_template": "<start_of_turn>user\n{{content}}\n<end_of_turn>\n",
+    "model_turn_template": "<start_of_turn>model\n{{content}}\n<end_of_turn>\n",
+    "model_turn_start_token": "<start_of_turn>model\n",
+    "bos_token": "<bos>"
+  }
+}

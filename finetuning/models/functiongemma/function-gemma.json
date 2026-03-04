@@ -15,5 +15,11 @@
       "description": "A Label Studio config for annotating tool usage from text.",
       "xml_config_path": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/finetuning/models/functiongemma/function-gemma-ls-config.xml"
     }
+  ],"prompt_templates": [
+    {
+      "name": "Default Tool Use",
+      "description": "The default prompt structure for FunctionGemma tool usage.",
+      "url": "./prompts/default_tool_use.json"
+    }
   ]
 }

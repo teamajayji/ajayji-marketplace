@@ -19,7 +19,7 @@
     {
       "name": "Default Tool Use",
       "description": "The default prompt structure for FunctionGemma tool usage.",
-      "url": "./prompts/default_tool_use.json"
+      "url": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/finetuning/models/functiongemma/prompts/default_tool_use.json"
     }
   ]
 }
